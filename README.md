@@ -1,4 +1,6 @@
-# About
+# This is KennyG
+
+## About
 You can find a demo version of this template [right here](https://sahayes-blog-template.netlify.app/). It is tailored for those looking to generate a blog using markdown. This was created using [Create React App](https://github.com/facebook/create-react-app), [styled-components](https://styled-components.com/), and deployed with [Netlify](https://netlify.com).
 
 ## Setup
