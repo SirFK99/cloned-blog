@@ -11,22 +11,6 @@ const SocialButtons = () => {
             animate={{ opacity: 1 }}
             initial={{ opacity: 0 }}
         >
-            <SocialButton
-                social="linkedin"
-                icon="linkedin-in"
-                link={`https://www.linkedin.com/in/${Data.social.linkedin}`}
-            />
-            <SocialButton
-                social="dribbble"
-                icon="dribbble"
-                link={`https://www.dribbble.com/${Data.social.dribbble}`}
-                margin={1}
-            />
-            <SocialButton
-                social="codepen"
-                icon="codepen"
-                link={`https://www.codepen.io/${Data.social.codepen}`}
-            />
         </motion.div>
     );
 }

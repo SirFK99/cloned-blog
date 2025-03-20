@@ -1,4 +1,4 @@
-import FirstBlogPost from '../posts/sample.md';
+import farts from '../posts/sample.md';
 import FirstBlogPostImage from '../assets/img/post_1.png'
 
 const Posts = [
@@ -7,7 +7,7 @@ const Posts = [
         date: "January 4, 2021",
         description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         image: FirstBlogPostImage,
-        content: FirstBlogPost,
+        content: farts,
         route: "cool-blog-post"
     },
 ]
