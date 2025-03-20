@@ -14,3 +14,4 @@ Assuming that you have the necesary dependancies to start a React app:
 * Edit the file `src/Posts.js` adding the necessary information, including your markdown file location, to generate your post. The `route` and page will be generated based on what's inside `Posts.js`.
 
 Once started, open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
