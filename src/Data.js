@@ -4,10 +4,10 @@ const About = {
         description: "I am Kendall Hutchings. I'm currently enrolled in NSCC's LIT program in hopes of finding a career in Libraries or Archives. ",
         experience: [
             {
-                title: "Senior Product Designer",
-                company: "Google",
-                date: "2019 - Present",
-                description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                title: "Team Lead",
+                company: "The Body Shop",
+                date: "2022 - Present",
+                description: "Provided me with leadership and customer service skills that bring to every new opportunity.",
             },
             {
                 title: "Product Designer",
