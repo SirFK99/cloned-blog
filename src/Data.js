@@ -1,7 +1,7 @@
 const About = {
     about: {
         title: "This is Me",
-        description: "I am Kendall Hutchings. I'm currently enrolled in NSCC's LIT program in hopes of finding a career in Libraries or Archives. ",
+        description: "I am Kendall Hutchings. I'm currently enrolled in NSCC's LIT program in hopes of finding a career in Libraries or Archives.",
         experience: [
             {
                 title: "Senior Product Designer",
@@ -22,7 +22,22 @@ const About = {
                 description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
             },
         ],
-
+        education: [
+            {
+                degree: "MS",
+                program: "Human-Centered Design & Engineering",
+                school: "University of Michigan",
+                date: "2019 - 2021",
+                about: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            },
+            {
+                degree: "BFA",
+                program: "Graphic Design",
+                school: "University of Michigan",
+                date: "2009 - 2013",
+                about: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            }
+        ]
     },
     contact: {
         title: "Get in touch.",
