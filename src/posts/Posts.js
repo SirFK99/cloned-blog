@@ -4,7 +4,7 @@ import ffviir from '../assets/img/FFVIIR.jpg'
 import joshmd from '../posts/josh.md'
 import jimmd from '../posts/jim.md'
 import ffviirmd from '../posts/ffviir.md'
-import presentation from '../../public/class/presentation.md'
+import presentation from '../posts/class/presentation.md'
 import react from '../assets/img/react.png'
 
 const Posts = [
