@@ -1,6 +1,5 @@
 import farts from '../posts/sample.md';
 import ass from '../assets/img/post_1.png'
-import grass from 'assets/img/josh.png'
 
 const Posts = [
     {
@@ -15,7 +14,7 @@ const Posts = [
         title: "Down the Rabbit Hole",
         date: "March 21, 2025",
         description: "As James makes his way through Silent Hill he finds himself digging deeper and deeper into what really happened to his wife. he stares into the empty void not knowing what he'll face but he goes anyways. James would rather face the truth than to continue living the way he has.",
-        image: grass,
+        image: ass,
         content: farts,
         route: "kennyg"
     },
