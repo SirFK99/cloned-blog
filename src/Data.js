@@ -48,12 +48,12 @@ const About = {
     home: {
         name: "KennyG",
         title: "Personal blog where I write code and explain all the things.",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        description: "Im silly, I write, and I share what I want. Enjoy!",
     },
     social: {
-        codepen: "stevehayes",
-        dribbble: "stevehayes",
-        linkedin: "stephenahayes"
+        codepen: "KennyG",
+        dribbble: "KennyG",
+        linkedin: "KennyG"
     },
 
 };
