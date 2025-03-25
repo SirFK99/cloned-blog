@@ -46,7 +46,7 @@ const About = {
         formspree: ""
     },
     home: {
-        name: "KennyG",
+        name: "Kenny G",
         title: "Personal blog where I write code and explain all the things.",
         description: "Im silly, I write, and I share what I want. Enjoy!",
     },
