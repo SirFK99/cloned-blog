@@ -16,37 +16,37 @@ const About = {
                 description: "i have been writing since I could Hold a pen. 3 books are on the way along with 2 short stories and and entire world ust for you (and me).",
             },
             {
-                title: "Product Designer",
-                company: "Facebook",
-                date: "2014 - 2017",
-                description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                title: "Advid Reader",
+                company: "Bookworms and Apples",
+                date: "2014 - 2020",
+                description: "All I had to do was read whatever I want. Sometimes it required me to read something for book club but it was all about reading for yourself. We would read and reccomend whatever we fealt like.",
             },
         ],
         education: [
             {
-                degree: "MS",
-                program: "Human-Centered Design & Engineering",
-                school: "University of Michigan",
-                date: "2019 - 2021",
-                about: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                degree: "BOA",
+                program: "Historical Studies",
+                school: "MUN",
+                date: "2017 - 2022",
+                about: "Majored in History minored in English. almost double majored... thanks covid."
             },
             {
-                degree: "BFA",
-                program: "Graphic Design",
-                school: "University of Michigan",
-                date: "2009 - 2013",
-                about: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                degree: "MOG",
+                program: "Goofiness",
+                school: "University of the Mouse",
+                date: "2010 - 2014",
+                about: "I mastered the way of the Goof. I am silliness incarnate."
             }
         ]
     },
     contact: {
         title: "Get in touch.",
         description: "I'm always interested in meeting new people. Use the contact form, or you can shoot me an email at",
-        email: "hello@schrutefarms.com",
+        email: "yes@kennyg.com",
         formspree: ""
     },
     home: {
-        name: "Dwight Schrute",
+        name: "KennyG",
         title: "Personal blog where I write code and explain all the things.",
         description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
     },
