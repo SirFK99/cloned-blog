@@ -1,14 +1,17 @@
 # 💻 How Code Becomes a Website
 
-*(Using this project as an example)*
+## *(Using this project as an example)*
 
 Think of a website like a school play.
 
 There’s a **script** (what to say), **set design** (what it looks like), and a **director** (what happens and when). Code works the same way — it gives instructions to the computer to **render** (or display) a website that people can see and use.
 
+![jsx diagram](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2017/08/jsx-2.png)
+
 ---
 
-## 🧱 1. HTML = The Structure  
+## 🧱 1. HTML = The Structure
+
 HTML is like the **stage and script**. It lays out what should appear on the page — like a title, photo, or button.
 
 When your browser loads a website, it reads the HTML and says:
@@ -16,7 +19,8 @@ When your browser loads a website, it reads the HTML and says:
 
 ---
 
-## 🎨 2. CSS = The Design  
+## 🎨 2. CSS = The Design
+
 CSS is like the **costumes and decorations**. It tells the browser how to make everything *look* — colors, fonts, spacing, and more.
 
 For example:  
@@ -24,7 +28,8 @@ HTML says "put a button here," and CSS says, "make it red, with rounded corners,
 
 ---
 
-## 🧠 3. JavaScript = The Brains  
+## 🧠 3. JavaScript = The Brains
+
 JavaScript adds the **interactions and behavior** — like when you click a button and a new page appears, or when the site loads content automatically.
 
 It’s like the **director** giving cues:
@@ -32,7 +37,8 @@ It’s like the **director** giving cues:
 
 ---
 
-## 🔄 What Does the Browser Actually Do?  
+## 🔄 What Does the Browser Actually Do?
+
 When you open a website, your browser (like Chrome or Safari) goes through these steps:
 
 1. **Reads the HTML** to understand what to show.
@@ -42,7 +48,8 @@ When you open a website, your browser (like Chrome or Safari) goes through these
 
 ---
 
-## 🛠️ When You're Building a Website  
+## 🛠️ When You're Building a Website
+
 With a project like this one:
 
 - You run a **local server** on your computer — like a mini, private version of the internet.
@@ -51,7 +58,8 @@ With a project like this one:
 
 ---
 
-## 🚀 When It’s Ready for the Internet  
+## 🚀 When It’s Ready for the Internet
+
 Once the website is finished, it gets **published** — uploaded to a web host so everyone can visit it.
 
 Now, whenever someone visits the site:
