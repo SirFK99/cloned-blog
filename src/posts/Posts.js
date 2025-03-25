@@ -3,9 +3,9 @@ import ass from '../assets/img/post_1.png'
 
 const Posts = [
     {
-        title: "Learn How to Create a Blog With These Simple Steps",
-        date: "January 4, 2021",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        title: "Why am I doing this?",
+        date: "March 20, 2025",
+        description: "I want to show you my abilities in learning how to build websites and how I accomplished that.",
         image: ass,
         content: farts,
         route: "cool-blog-post"
