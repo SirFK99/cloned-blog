@@ -10,10 +10,10 @@ const About = {
                 description: "to share and make people laugh.",
             },
             {
-                title: "Product Designer",
-                company: "Dribbble",
-                date: "2017 - 2019",
-                description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                title: "Author",
+                company: "Write Co.",
+                date: "2007 - Present",
+                description: "i have been writing since I could Hold a pen. 3 books are on the way along with 2 short stories and and entire world ust for you (and me).",
             },
             {
                 title: "Product Designer",
