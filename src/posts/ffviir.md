@@ -26,10 +26,6 @@ Just maybe.
 
 ---
 
-Absolutely! Here's a **Cait Sith–narrated version** of the story, packed with his signature flair:
-
----
-
 ## Cait Sith’s Big Day Out
 
 ### (With Vincent Valentine, Professional Brooder)
