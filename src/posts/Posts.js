@@ -8,7 +8,7 @@ const Posts = [
         description: "I want to show you my abilities in learning how to build websites and how I accomplished that.",
         image: ass,
         content: farts,
-        route: "cool-blog-post"
+        route: "kennyg"
     },
     {
         title: "Why am I doing this?",
@@ -16,7 +16,7 @@ const Posts = [
         description: "I want to show you my abilities in learning how to build websites and how I accomplished that.",
         image: ass,
         content: farts,
-        route: "cool-blog-post"
+        route: "kennyg"
     },
     {
         title: "Why am I doing this?",
@@ -24,7 +24,7 @@ const Posts = [
         description: "I want to show you my abilities in learning how to build websites and how I accomplished that.",
         image: ass,
         content: farts,
-        route: "cool-blog-post"
+        route: "kennyg"
     },
 ]
 
